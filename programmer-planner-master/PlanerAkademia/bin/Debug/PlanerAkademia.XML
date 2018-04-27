@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlanerAkademia</name>
+    </assembly>
+    <members>
+        <member name="T:PlanerAkademia.AppPages">
+            <summary>
+            Information about which page is the user at
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.AppPages.SignIn">
+            <summary>
+            Signing in page
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.AppPages.SignUp">
+            <summary>
+            Signing up page
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.AppPages.ShowEvents">
+            <summary>
+            Page that shows all events
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.AppPages.AddEvents">
+            <summary>
+            Page that let the user add event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.DataBase.UserID">
+            <summary>
+            Gets the user id when logged in
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.DataBase.EventID">
+            <summary>
+            Gets all the Ids of events of this user
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.DataBase.connection">
+            <summary>
+            MySqlConnection variable
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.DataBase.connect">
+            <summary>
+            String with informations needed to connect
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.AddEvent">
+            <summary>
+            AddEvent
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.AddEvent.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.BasePage`1.mViewModel">
+            <summary>
+            ViewModel associated with this page
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.BasePage`1.ViewModel">
+            <summary>
+            ViewModel associated with this page
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.BasePage`1.#ctor">
+            <summary>
+            Base Constructor
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.ShowEvents">
+            <summary>
+            ShowEvents
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.ShowEvents.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.SignIn">
+            <summary>
+            SignIn
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.SignIn.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.SignUp">
+            <summary>
+            SignUp
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.SignUp.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.BaseValueConverter`1">
+            <summary>
+            Base Value Converter
+            </summary>
+            <typeparam name="T">Type of value to convert</typeparam>
+        </member>
+        <member name="F:PlanerAkademia.BaseValueConverter`1.Converter">
+            <summary>
+            Instance of this converter
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.BaseValueConverter`1.ProvideValue(System.IServiceProvider)">
+            <summary>
+            Provides a static instance of the value converter
+            </summary>
+            <param name="serviceProvider">Provider</param>
+            <returns></returns>
+        </member>
+        <member name="M:PlanerAkademia.BaseValueConverter`1.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            The method to convert one value type to another
+            </summary>
+            <param name="value"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PlanerAkademia.BaseValueConverter`1.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            The method to convert value type back to it's first type
+            </summary>
+            <param name="value"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.hour">
+            <summary>
+            Hour of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.minute">
+            <summary>
+            Minute of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.second">
+            <summary>
+            Second of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.day">
+            <summary>
+            Day of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.month">
+            <summary>
+            Month of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.year">
+            <summary>
+            Year of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.name">
+            <summary>
+            Name of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.mainEvent">
+            <summary>
+            Full Event - prepared for everything
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.description">
+            <summary>
+            Description of the event
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.AcceptCommand">
+            <summary>
+            Command to accept the event and send it to database
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.AddEventViewModel.CancelCommand">
+            <summary>
+            Command to cancel the event and delete all informations
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.AddEventViewModel.CancelAsync">
+            <summary>
+            Function that execute, when the cancel button is pressed
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.AddEventViewModel.AcceptAsync">
+            <summary>
+            Function that execute, when the accept button is pressed
+            </summary>
+        </member>
+        <member name="F:PlanerAkademia.MainWindowViewModel.window">
+            <summary>
+            Window we're working on
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.ContentPadding">
+            <summary>
+            Padding of the main content
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.OuterMarginValue">
+            <summary>
+            Value of margin to allow the drop shadow
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.WindowRadiusValue">
+            <summary>
+            Value of radius of the edges of the window
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.WindowWidth">
+            <summary>
+            Width that window can't have less than
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.WindowHeight">
+            <summary>
+            Height that window can't have less than
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.TitleHeight">
+            <summary>
+            Height of the title bar
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.ContentPaddingThickness">
+            <summary>
+            Padding of the main content
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.OuterMarginSizeThickness">
+            <summary>
+            Thickness of Margin to allow drop shadow
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.WindowCornerRadius">
+            <summary>
+            CornerRadius of the window
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.TitleHeightGrid">
+            <summary>
+            GridLength of the title bar
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.CurrentPage">
+            <summary>
+            Information about which page is the user at
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.Minimize">
+            <summary>
+            The command to minimize the window
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.Close">
+            <summary>
+            The command to close the window
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.MainWindowViewModel.IconButtonCommand">
+            <summary>
+            The command to open icon menu bar
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.MainWindowViewModel.#ctor(System.Windows.Window)">
+            <summary>
+            Basic creator
+            </summary>
+            <param name="window">Window we're working on</param>
+        </member>
+        <member name="M:PlanerAkademia.MainWindowViewModel.GetMousePosition">
+            <summary>
+            Helper to get the current mouse position
+            </summary>
+            <returns>Mouse position</returns>
+        </member>
+        <member name="P:PlanerAkademia.ShowEventViewModel.LogOutCommand">
+            <summary>
+            Command to Log out
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.ShowEventViewModel.AddEventCommand">
+            <summary>
+            Command to Go to Page of Event Adding
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.SignInAndUpViewModel.Login">
+            <summary>
+            Login of the user
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.SignInAndUpViewModel.Password">
+            <summary>
+            Password of the user
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.SignInAndUpViewModel.ContinueCommand">
+            <summary>
+            Command to Login to ShowEventsPage
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.SignInAndUpViewModel.RegisterCommand">
+            <summary>
+            Command to go to register page
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.SignInAndUpViewModel.CreateAccountCommand">
+            <summary>
+            Command to create a new account
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.SignInAndUpViewModel.GoToLoginPageCommand">
+            <summary>
+            Command to go to login page
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.SignInAndUpViewModel.#ctor">
+            <summary>
+            Base Cunstructor
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:PlanerAkademia.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:PlanerAkademia.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PlanerAkademia.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+    </members>
+</doc>
