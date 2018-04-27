@@ -1,0 +1,20 @@
+Link do prezentacji projektu na YT:
+https://youtu.be/O2XWy-DQsSg
+
+Postanowiliśmy skupić się na wyglądzie aplikacji,
+dzięki czemu udało się stworzyć piękne MacOS okienko,
+zamiast starego, znanego już na WIN95 layoutu Windowsa 🙂
+
+Aplikacja wykorzystuje Fody i Microsoft.Windows.Shell.
+
+Jest podzielona w konwencji MVVM - Model-View-ViewModel, 
+dzięki czemu można ją łątwo przerzucić na inne systemy. 
+
+Aplikacja korzysta z bazy danych MySQL, postawionej na serwerze VPS, 
+dzięki czemu można zalogować się na swoje konto z każdego komputera z połączeniem internetowym. 
+
+W całej aplikacji jest pełno komentarzy opisujących działanie poszczególnych funkcji, 
+więc nie ma powodu do większego rozpisywania się tu na ten temat.
+
+Generalnie jesteśmy zadowoleni ze swojej pracy i dużych postępów,
+ wynikających z doświadczenia z tym projektem.

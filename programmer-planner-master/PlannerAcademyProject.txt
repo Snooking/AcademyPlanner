@@ -1,0 +1,14 @@
+C# .NET Academy 2017 (EN)
+Group members:
+-Karol Szczepañski
+-Adrian Konkol
+Idea: App - planner for programmers
+Technologies: C# + WPF
+Features:
+•	Setting deadlines
+•	Calendar
+•	Saving important algorithms
+•	Notes
+•	Deadline handling
+•	Reminders
++nice graphic layout
