@@ -1,0 +1,9 @@
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\MainWindow.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\Pages\AddEvent.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\Pages\ShowEvents.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\Pages\SignIn.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\Pages\SignUp.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\App.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\PlanerAkademia_MarkupCompile.cache
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\x86\Debug\PlanerAkademia_MarkupCompile.lref

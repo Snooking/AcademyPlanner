@@ -1,0 +1,102 @@
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\PlanerAkademia.exe.config
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia.exe
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia.pdb
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\PlanerAkademia.exe
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\PlanerAkademia.pdb
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia.csprojResolveAssemblyReference.cache
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\MainWindow.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\AddEvent.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\ShowEvents.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\SignIn.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\SignUp.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\App.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia_MarkupCompile.cache
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia_MarkupCompile.lref
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\App.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\MainWindow.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\AddEvent.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\ShowEvents.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\SignIn.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Pages\SignUp.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Styles\Buttons.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Styles\Colors.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Styles\Fonts.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Styles\Texts.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia.g.resources
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia.Properties.Resources.resources
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\PlanerAkademia.csproj.GenerateResource.Cache
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Styles\DatePicker.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\obj\Debug\Styles\ListView.baml
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\MySql.Data.dll
+C:\Users\Snooking\documents\visual studio 2015\Projects\PlanerAkademia\PlanerAkademia\bin\Debug\MySql.Data.xml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.exe.config
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.exe
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.pdb
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.exe
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.pdb
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\Microsoft.Windows.Shell.dll
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\MySql.Data.xml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.csprojResolveAssemblyReference.cache
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\MainWindow.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\AddEvent.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\ShowEvents.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignIn.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignUp.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\App.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia_MarkupCompile.cache
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia_MarkupCompile.lref
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\App.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\MainWindow.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\AddEvent.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\ShowEvents.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignIn.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignUp.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Buttons.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Colors.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\DatePicker.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Fonts.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\ListView.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Texts.baml
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.g.resources
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.Properties.Resources.resources
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.csproj.GenerateResource.Cache
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.exe.config
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.exe
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.pdb
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\Microsoft.Windows.Shell.dll
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\MySql.Data.dll
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\MySql.Data.xml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.csprojResolveAssemblyReference.cache
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\MainWindow.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\AddEvent.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\ShowEvents.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignIn.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignUp.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\App.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia_MarkupCompile.cache
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia_MarkupCompile.lref
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\App.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\MainWindow.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\AddEvent.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\ShowEvents.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignIn.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Pages\SignUp.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Buttons.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Colors.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\DatePicker.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Fonts.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\ListView.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\Styles\Texts.baml
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.g.resources
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.Properties.Resources.resources
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.csproj.GenerateResource.Cache
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.exe
+F:\Pobrane\PlanerAkademia_latest\PlanerAkademia\programmer-planner\PlanerAkademia\obj\Debug\PlanerAkademia.pdb
+D:\akademia\PlanerAkademia\programmer-planner\PlanerAkademia\bin\Debug\PlanerAkademia.XML

@@ -1,0 +1,37 @@
+﻿<local:BasePage x:TypeArguments="local:AddEventViewModel" x:Class="PlanerAkademia.AddEvent"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PlanerAkademia"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="AddEvent">
+        <StackPanel Margin="25">
+            <TextBox Text="{Binding name}" Tag="Name of the event"/>
+            <DatePicker DisplayDate="{Binding bDate}"
+                        SelectedDate="{Binding mDate}"/>
+        <!-- Time picker -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                <TextBox Text="{Binding mHour}"  Margin="15" Tag="HH"/>
+                <TextBox Text="{Binding mMinute}"  Margin="15" Grid.Column="1" Tag="MM"/>
+                <TextBox Text="{Binding mSecond}"  Margin="15" Grid.Column="2" Tag="SS"/>
+            </Grid>
+            <TextBox Text="{Binding description}" Style="{StaticResource DescriptionBox}" Tag="Description" />
+
+            <Grid Margin="15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+            <Button Command="{Binding CancelCommand}" Content="Cancel"/>
+            <Button Command="{Binding AcceptCommand}" Grid.Column="2" Content="Accept"/>
+        </Grid>
+        </StackPanel>
+</local:BasePage>
