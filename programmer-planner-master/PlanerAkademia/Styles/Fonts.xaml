@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PlanerAkademia"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <FontFamily x:Key="Thin">pack://application;,,,/Fonts/#Lato Thin</FontFamily>
+    <FontFamily x:Key="Bold">pack://application;,,,/Fonts/#Lato Bold</FontFamily>
+    <FontFamily x:Key="Italic">pack://application;,,,/Fonts/#Lato Italic</FontFamily>
+    <FontFamily x:Key="Regular">pack://application;,,,/Fonts/#Lato Regular</FontFamily>
+
+    <system:Double x:Key="FontSizeSmall">14</system:Double>
+    <system:Double x:Key="FontSizeRegular">18</system:Double>
+    <system:Double x:Key="FontSizeLarge">25</system:Double>
+    <system:Double x:Key="FontSizeTitle">48</system:Double>
+
+</ResourceDictionary>

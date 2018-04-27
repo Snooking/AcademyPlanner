@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PlanerAkademia">
+
+    <Color x:Key="Light">#eeeeee</Color>
+    <SolidColorBrush x:Key="LightBrush" Color="{StaticResource Light}"/>
+
+    <Color x:Key="VeryLight">#fbfbfb</Color>
+    <SolidColorBrush x:Key="VeryLightBrush" Color="{StaticResource VeryLight}" />
+
+    <Color x:Key="Lightest">#ffffff</Color>
+    <SolidColorBrush x:Key="LightestBrush" Color="{StaticResource Lightest}"/>
+    
+    <Color x:Key="ForegroundMain">#878787</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}"/>
+
+    <Color x:Key="Dark">#000000</Color>
+    <SolidColorBrush x:Key="DarkBrush" Color="{StaticResource Dark}"/>
+
+    <Color x:Key="PageTitleColor">#10bec9</Color>
+    <SolidColorBrush x:Key="PageTitleColorBrush" Color="{StaticResource PageTitleColor}"/>
+
+    <Color x:Key="PageTitleLightColor">#02bdfc</Color>
+    <SolidColorBrush x:Key="PageTitleLightColorBrush" Color="{StaticResource PageTitleLightColor}"/>
+
+</ResourceDictionary>
